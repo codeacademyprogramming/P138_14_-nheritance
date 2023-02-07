@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/EH3C19fqd2+6t5PDA+9Rz+OYZBm2v38LW1ISh00aIP8sWPtf/v241PY8x4CSeEnT2DeUBAgh4kgaZI7XXIzQA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Eagha\\Desktop\\CodeLessons\\P138\\14. 07-02-2023\\07022023\\Tasks\\Tasks.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Eagha\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.32\\microsoft.netcore.app.host.win-x64.3.1.32.nupkg.sha512"
+  ],
+  "logs": []
+}
